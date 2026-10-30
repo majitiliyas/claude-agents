@@ -38,7 +38,8 @@
 - Language: switched to Russian in session 1 follow-up. Respond in Russian unless they switch back.
 
 ## Upcoming competitions
-- Zimran Business Cup x AIESEC (https://business-cup.zimran.io/). Product sprint: niche → GTM/unit economics → MVP demo → pitch; teams of up to 3; in person at NU, Astana; 2nd–4th year students eligible. The page shows the spring 2026 edition (Mar 16–Apr 12, 2026), already over; next date unknown. Planned role: owns GTM + unit economics end to end + one slice of the MVP demo. Details in roadmap.md.
+- NEXT: Business Cup Hackathon 2.0 (AIESEC in Astana + Zimran), Nov 14–15, 2026, in person, 24 h, at NU; real IT case from Zimran; registration deadline Nov 8, 2026; 5,000,000 KZT prize pool. Team size not stated. Role: pitch/product lead + one component owned end to end. Details in roadmap.md.
+- Past: Zimran Business Cup x AIESEC (https://business-cup.zimran.io/). Product sprint: niche → GTM/unit economics → MVP demo → pitch; teams of up to 3; in person at NU, Astana; 2nd–4th year students eligible. The page shows the spring 2026 edition (Mar 16–Apr 12, 2026), already over; next date unknown. Planned role: owns GTM + unit economics end to end + one slice of the MVP demo. Details in roadmap.md.
 - Spending (2026-10-30): stipend goes to university canteen food, medicine, sometimes taxi, sometimes going out. Says they go out less than their classmates.
 
 ## Candidate fields under consideration (as of 2026-10-30)

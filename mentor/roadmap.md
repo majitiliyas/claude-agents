@@ -37,13 +37,25 @@ Rules for Phase 0:
 The idea comes from the founder's own pain: making a 50,000 KZT/month stipend last. It touches field A (product engineering) and field C (fintech).
 - MVP IN: `/budget 50000` sets the monthly budget; any message like `1200 coffee` logs an expense; after each log the bot replies with today's "safe to spend" = (budget − spent) / days left; `/week` gives a weekly summary (total + top categories); data stored in SQLite or JSON.
 - MVP OUT (v2+): LLM categorisation of free-text expenses ("shawarma and taxi 2500"), cheaper-alternative suggestions, bank/Kaspi integration, charts, web app, multi-currency, reminders.
+- Default categories (from the founder's real spending, 2026-10-30): еда, лекарства, такси, развлечения. MVP also includes `/reserve <amount>`: medicine is a fixed reserve subtracted first, and "safe to spend" is computed from the rest. Food is likely the biggest controllable line.
+- First test users: classmates who go out a lot (the founder says they spend more on going out), so they feel the pain more than the founder does.
 - Dogfooding: the founder logs their own stipend spending every day, starting now (by hand in Notes until the bot exists).
 - Success: 5 classmates each log at least 3 expenses across 2 different days, and the founder has used it for 2+ weeks. Bonus: one sentence from each user on what they'd change.
 - Timing: build in week 4 (Nov 23–29); the LLM feature only after the MVP works.
 
-## Business Cup (AIESEC at NU): date/format TBD
-- If it's a case competition: the founder is strategy/finance lead and owns one section end to end (financial model OR market sizing). Differentiator: a tiny working prototype/demo if the case allows it.
-- Prep once the date is known: unit economics basics, TAM/SAM/SOM, a simple 3-year model in Sheets, a 3-minute pitch structure.
+## Zimran Business Cup x AIESEC (verified 2026-10-30 from https://business-cup.zimran.io/)
+- Organiser: "Powered by Zimran x AIESEC". The earlier "AIESEC only" assumption was incomplete.
+- The page describes the SPRING 2026 edition, which is already over: registration Mar 16–Apr 6, 2026; choose market Apr 9–10; go-to-market Apr 11; MVP demo + pitch Apr 12; top teams go to a final pitch.
+- Format: "build and test product ideas". Pick a niche → GTM (customer, pricing, channels, unit economics) → MVP demo → pitch. It is a product sprint, not a pure case competition.
+- Teams: solo or up to 3; cross-university teams allowed; solo applicants can register as "searching for a team". Eligibility: 2nd–4th year students, master's, recent grads (founder qualifies). In person in Astana at NU; no online participation.
+- Prizes: 3,000,000 KZT; a sponsored trip to a conference with a Zimran "MAANG partner" (not named); fast-track career opportunities at Zimran.
+- Next edition: date NOT announced (assumption: maybe spring 2027 if it repeats; unverified). The founder should watch the page and Zimran/AIESEC channels.
+- Role: in a team of at most 3, everyone builds. The founder owns GTM + unit economics end to end AND one slice of the MVP demo.
+- Prep plan (alongside CS50P, 4–10 h/week):
+  - Nov–Dec: CS50P + budgeting bot (real MVP + real users = rehearsal for the whole format).
+  - Jan: one-page GTM + unit economics for the bot (customer, price, channel, CAC/LTV estimate); 3-minute pitch; record it.
+  - Feb: form a team of 3 (target: one strong coder + one design/marketing person; founder = GTM/finance + bot builder).
+  - Before the event: a 4-day mock sprint (niche → GTM → MVP → pitch) with the team; register on day 1 of registration.
 
 ## Phase 1 (draft, after checkpoint)
 Depends on field. If A: finish CS50P → CS50 Web or a small backend course → ship 2 LLM products with real users. If B: finish CS50P → fast.ai Practical Deep Learning → 3Blue1Brown linear algebra → ship CV demo with real data. Startup fundamentals in parallel (The Mom Test first).

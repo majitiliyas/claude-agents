@@ -38,7 +38,8 @@
 - Language: switched to Russian in session 1 follow-up. Respond in Russian unless they switch back.
 
 ## Upcoming competitions
-- "Business Cup" by AIESEC at NU (they wrote "AESEC NU ZUMRAN"). Date and format unknown. Search found no event by that exact name; AIESEC did run the AIESEC x Higgsfield Case Championship at NU on Oct 18–19, 2025, so it is probably a business case competition, not a coding hackathon. Planned role: strategy/finance lead, owning one section end to end + a tiny prototype as a differentiator if the format allows.
+- Zimran Business Cup x AIESEC (https://business-cup.zimran.io/). Product sprint: niche → GTM/unit economics → MVP demo → pitch; teams of up to 3; in person at NU, Astana; 2nd–4th year students eligible. The page shows the spring 2026 edition (Mar 16–Apr 12, 2026), already over; next date unknown. Planned role: owns GTM + unit economics end to end + one slice of the MVP demo. Details in roadmap.md.
+- Spending (2026-10-30): stipend goes to university canteen food, medicine, sometimes taxi, sometimes going out. Says they go out less than their classmates.
 
 ## Candidate fields under consideration (as of 2026-10-30)
 1. AI/LLM applications & agents (AI product engineer) — current lean

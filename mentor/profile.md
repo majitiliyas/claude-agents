@@ -33,6 +33,13 @@
 - Motivation pattern: needs to SEE the payoff before investing effort. Fully committed once the growth path is clear; disengages from work that feels pointless. Coaching implication: always tie every task to a concrete opportunity/outcome, keep feedback loops short (ship something every 1–2 weeks), make progress visible.
 - Hates lack of impact — use as a lever: give them ownership of something real.
 
+## Personal pain points / idea seeds
+- 2026-10-30: money management on a 50,000 KZT monthly stipend. Feels money won't last, but believes budgeting, cutting unnecessary spending and cheaper alternatives would stretch it to a full month. Became the Trial A spec (student budgeting Telegram bot). Signal: their own pain sits in fintech (field C), so A+C overlap.
+- Language: switched to Russian in session 1 follow-up. Respond in Russian unless they switch back.
+
+## Upcoming competitions
+- "Business Cup" by AIESEC at NU (they wrote "AESEC NU ZUMRAN"). Date and format unknown. Search found no event by that exact name; AIESEC did run the AIESEC x Higgsfield Case Championship at NU on Oct 18–19, 2025, so it is probably a business case competition, not a coding hackathon. Planned role: strategy/finance lead, owning one section end to end + a tiny prototype as a differentiator if the format allows.
+
 ## Candidate fields under consideration (as of 2026-10-30)
 1. AI/LLM applications & agents (AI product engineer) — current lean
 2. Applied ML / computer vision

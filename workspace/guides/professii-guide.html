@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>IT-профессии 2026–2030</title>
+<style>
+  @font-face { font-family: 'Manrope'; src: url('fonts/manrope-cyrillic-wght-normal.woff2') format('woff2'); font-weight: 200 800; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+  @font-face { font-family: 'Manrope'; src: url('fonts/manrope-latin-wght-normal.woff2') format('woff2'); font-weight: 200 800; }
+  @font-face { font-family: 'Unbounded'; src: url('fonts/unbounded-cyrillic-wght-normal.woff2') format('woff2'); font-weight: 200 900; unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+  @font-face { font-family: 'Unbounded'; src: url('fonts/unbounded-latin-wght-normal.woff2') format('woff2'); font-weight: 200 900; }
+
+  :root { --blue:#1A73D6; --navy:#0F1F3D; --accent:#FFC94D; --ink:#16213A; --muted:#5B6782; --line:#E3E8F2; --bg:#F6F8FC; --red:#D64545; --green:#1E9E63; }
+  @page { size: 120mm 213mm; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { font-family: 'Manrope', sans-serif; color: var(--ink); font-size: 10pt; line-height: 1.45; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { width: 120mm; height: 213mm; padding: 11mm 9mm 10mm; position: relative; page-break-after: always; overflow: hidden; background: white; }
+  .page:last-child { page-break-after: auto; }
+  .num { position: absolute; bottom: 5mm; right: 9mm; font-size: 7pt; color: var(--muted); }
+  .src { font-size: 6.6pt; color: var(--muted); margin-top: 3mm; line-height: 1.35; }
+  h1, h2, h3 { font-family: 'Unbounded', sans-serif; margin: 0; line-height: 1.12; }
+  h2 { font-size: 15pt; font-weight: 800; margin-bottom: 3.5mm; }
+  h3 { font-size: 10pt; font-weight: 700; margin: 3mm 0 1.5mm; }
+  p { margin: 0 0 2.2mm; }
+  .kicker { font-weight: 800; font-size: 7.5pt; letter-spacing: .14em; color: var(--blue); text-transform: uppercase; margin-bottom: 2mm; }
+  .card { background: var(--bg); border: 1px solid var(--line); border-radius: 4mm; padding: 3.2mm 3.6mm; margin-bottom: 2.6mm; }
+  .stat { display: flex; gap: 3mm; align-items: baseline; }
+  .stat b { font-family: 'Unbounded', sans-serif; font-size: 17pt; font-weight: 800; color: var(--blue); white-space: nowrap; }
+  .stat.down b { color: var(--red); }
+  .stat.up b { color: var(--green); }
+  .stat span { font-size: 8.8pt; }
+  ul, ol { margin: 0 0 2mm; padding-left: 4.5mm; }
+  li { margin-bottom: 1.3mm; }
+  table { width: 100%; border-collapse: collapse; font-size: 7.6pt; line-height: 1.3; }
+  th { text-align: left; background: var(--navy); color: white; padding: 1.6mm 1.6mm; font-weight: 700; }
+  td { padding: 1.6mm; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:nth-child(even) td { background: var(--bg); }
+  .todo { background: #FFF1C2; border-bottom: 1.5px dashed #E0A800; padding: 0 .6mm; font-weight: 700; }
+  .tag { display: inline-block; font-size: 6.8pt; font-weight: 800; padding: .5mm 1.8mm; border-radius: 2mm; background: #E7F0FC; color: var(--blue); margin-right: 1mm; }
+  .tag.red { background: #FBE7E7; color: var(--red); }
+  .tag.green { background: #E2F5EC; color: var(--green); }
+  .cover { background: var(--navy); color: white; }
+  .cover h1 { font-size: 27pt; font-weight: 900; margin-top: 30mm; }
+  .cover h1 em { font-style: normal; color: var(--accent); }
+  .cover .sub { font-size: 11pt; margin-top: 6mm; opacity: .9; }
+  .cover .who { position: absolute; bottom: 14mm; left: 9mm; right: 9mm; font-size: 8.5pt; opacity: .85; border-top: 1px solid rgba(255,255,255,.25); padding-top: 3mm; }
+  .cover .badge { display: inline-block; background: var(--accent); color: var(--navy); font-weight: 800; font-size: 8pt; letter-spacing: .12em; padding: 1.2mm 3mm; border-radius: 2mm; }
+  .cover .toc { margin-top: 10mm; font-size: 8.6pt; opacity: .9; }
+  .cover .toc div { padding: 1mm 0; border-bottom: 1px solid rgba(255,255,255,.12); }
+  .cta { background: var(--blue); color: white; border-radius: 5mm; padding: 5mm; margin-top: 4mm; }
+  .cta h3 { color: white; font-size: 12pt; margin-top: 0; }
+  .btn { display: block; text-align: center; background: var(--accent); color: var(--navy); font-weight: 800; font-size: 11pt; padding: 3.5mm; border-radius: 3mm; text-decoration: none; margin-top: 3mm; }
+  .quote { border-left: 1.2mm solid var(--accent); padding-left: 3mm; font-weight: 700; margin: 3mm 0; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.4mm; }
+  .mini { font-size: 8.2pt; }
+  a { color: var(--blue); }
+</style>
+</head>
+<body>
+
+<!-- 1. COVER -->
+<section class="page cover">
+  <span class="badge">ГАЙД · ПРОФЕССИИ</span>
+  <h1>IT-профессии<br><em>2026–2030</em></h1>
+  <div class="sub">Что растёт, почему, и где учиться — даже если не получил грант.</div>
+  <div class="toc">
+    <div>1. Что происходит с IT-работой в мире</div>
+    <div>2. Что происходит в Казахстане</div>
+    <div>3. Карта 8 профессий: рост, порог входа, кому подходит</div>
+    <div>4. Как выбрать свою за 10 минут</div>
+    <div>5. План первых 30 дней — бесплатно</div>
+    <div>6. Где самоучки застревают</div>
+    <div>7. Сам, онлайн-платформа или школа?</div>
+    <div>8. Если не прошёл на грант Tech Orda</div>
+  </div>
+  <div class="who">Собрал Ильяс, аналитик KAI. Ноябрь 2026.<br>Все цифры — с источником. Где это моя оценка, так и написано.</div>
+</section>
+
+<!-- 2. WORLD -->
+<section class="page">
+  <div class="kicker">1 · Мир</div>
+  <h2>IT-работы станет больше. Но не везде.</h2>
+  <div class="card stat up"><b>+170 млн</b><span>новых рабочих мест в мире к 2030 году</span></div>
+  <div class="card stat down"><b>−92 млн</b><span>мест исчезнет или изменится</span></div>
+  <div class="card stat"><b>+78 млн</b><span>чистый прирост</span></div>
+  <h3>Самые быстрорастущие профессии (WEF)</h3>
+  <ol class="mini">
+    <li>Специалисты по большим данным (Big Data)</li>
+    <li>FinTech-инженеры</li>
+    <li>Специалисты по ИИ и машинному обучению</li>
+    <li>Разработчики ПО и приложений</li>
+    <li>Специалисты по информационной безопасности</li>
+    <li>Специалисты по хранилищам данных</li>
+  </ol>
+  <h3>США, прогноз на 10 лет (BLS)</h3>
+  <div class="two">
+    <div class="card stat up"><b>+33,5%</b><span>Data Scientist</span></div>
+    <div class="card stat up"><b>+28,5%</b><span>Аналитик инфо&shy;безопасности</span></div>
+  </div>
+  <p class="quote">Вывод: рост там, где данные, ИИ и безопасность.</p>
+  <div class="src">Источники: World Economic Forum, Future of Jobs Report 2025 (янв. 2025); U.S. Bureau of Labor Statistics, Employment Projections 2024–2034.</div>
+  <div class="num">2</div>
+</section>
+
+<!-- 3. KAZAKHSTAN -->
+<section class="page">
+  <div class="kicker">2 · Казахстан</div>
+  <h2>У нас то же самое — только жёстче на входе</h2>
+  <p class="mini">Изменение числа вакансий на hh.kz за 2025 год:</p>
+  <div class="two">
+    <div class="card stat up"><b>+110,6%</b><span>Data Scientist</span></div>
+    <div class="card stat up"><b>+100%</b><span>BI-аналитик</span></div>
+    <div class="card stat down"><b>−10,7%</b><span>Программисты</span></div>
+    <div class="card stat down"><b>−26%</b><span>Сетевые инженеры</span></div>
+  </div>
+  <div class="card stat down"><b>−17,8%</b><span>Системные администраторы</span></div>
+  <div class="card stat"><b>≈13</b><span>кандидатов в среднем на одну IT-вакансию</span></div>
+  <h3>Сколько резюме на одну вакансию</h3>
+  <div class="two">
+    <div class="card stat"><b>39</b><span>сетевой инженер</span></div>
+    <div class="card stat"><b>12</b><span>DevOps</span></div>
+  </div>
+  <p class="quote">Вывод: войти в IT можно, но толпа на входе большая. Выигрывает тот, кто выбрал нишу с меньшей конкуренцией и пришёл с портфолио.</p>
+  <div class="src">Источник: hh.kz, данные 2025 года (по внутреннему разбору «Топ-10 IT-профессий 2026–2030» и анализу вакансий KAI). <span class="todo">[ПРОВЕРИТЬ ссылки на hh.kz перед публикацией]</span></div>
+  <div class="num">3</div>
+</section>
+
+<!-- 4. MAP -->
+<section class="page">
+  <div class="kicker">3 · Карта профессий</div>
+  <h2>8 направлений: куда смотреть</h2>
+  <table>
+    <tr><th>Профессия</th><th>Что делает</th><th>Тренд</th><th>Порог входа*</th></tr>
+    <tr><td><b>Data / BI-аналитик</b></td><td>Находит ответы в данных, строит дашборды</td><td><span class="tag green">растёт</span> KZ +100% (BI)</td><td>Средний: SQL, Excel, статистика</td></tr>
+    <tr><td><b>Data Scientist / ML</b></td><td>Строит модели, которые предсказывают</td><td><span class="tag green">растёт</span> KZ +110,6%, США +33,5%</td><td>Высокий: Python, математика</td></tr>
+    <tr><td><b>Кибербезопасность (SOC)</b></td><td>Ловит атаки, разбирает инциденты</td><td><span class="tag green">растёт</span> США +28,5%</td><td>Средний: сети, Linux, внимательность</td></tr>
+    <tr><td><b>DevOps / платформы</b></td><td>Автоматизирует выпуск и работу сервисов</td><td><span class="tag">меньше толпы</span> 12 резюме/вакансию</td><td>Средний-высокий: Linux, сети, скрипты</td></tr>
+    <tr><td><b>Облачный инженер</b></td><td>Строит инфраструктуру в облаках</td><td><span class="tag green">растёт</span> по трендам</td><td>Средний: сети, Linux</td></tr>
+    <tr><td><b>Роли вокруг ИИ</b></td><td>Внедряет ИИ в работу компаний: интегратор, AI product, AI security</td><td><span class="tag green">новая волна</span></td><td>Разный: от «ИИ для работы» до инженерии</td></tr>
+    <tr><td><b>Разработчик</b></td><td>Пишет продукты и сервисы</td><td><span class="tag red">вход сложнее</span> KZ −10,7%</td><td>Средний-высокий</td></tr>
+    <tr><td><b>Сетевой инженер</b></td><td>Строит и чинит сети</td><td><span class="tag red">сжимается</span> KZ −26%, 39 резюме</td><td>Средний: CCNA-уровень</td></tr>
+  </table>
+  <div class="src">* Порог входа — моя оценка. Тренды: hh.kz 2025, BLS 2024–2034, WEF 2025.</div>
+  <div class="card mini" style="margin-top:3mm"><b>Честно про сети.</b> Вакансий сетевых инженеров в Казахстане стало меньше. Но сети — это фундамент для облаков и кибербезопасности. Смотри на них как на вход, а не как на финальную точку.</div>
+  <div class="num">4</div>
+</section>
+
+<!-- 5. CHOOSE -->
+<section class="page">
+  <div class="kicker">4 · Как выбрать</div>
+  <h2>Выбери за 10 минут: 3 вопроса</h2>
+  <div class="card"><b>1. Что тебе ближе?</b>
+    <ul class="mini">
+      <li><b>Цифры и выводы</b> → Data / BI-аналитик</li>
+      <li><b>Разобраться, как всё устроено, и защитить</b> → кибербезопасность, сети</li>
+      <li><b>Автоматизировать и чтобы «само работало»</b> → DevOps, облака</li>
+      <li><b>Создавать продукт</b> → разработка, роли вокруг ИИ</li>
+    </ul>
+  </div>
+  <div class="card"><b>2. Как у тебя с математикой?</b>
+    <ul class="mini">
+      <li>Нравится → Data Science / ML тоже вариант</li>
+      <li>Нейтрально → аналитика, безопасность, DevOps</li>
+    </ul>
+  </div>
+  <div class="card"><b>3. Сколько часов в неделю реально есть?</b>
+    <ul class="mini">
+      <li>До 5 → начни с одного бесплатного курса и проверь, нравится ли</li>
+      <li>5–15 → план из раздела 5 + один проект в портфолио</li>
+      <li>15+ → системное обучение с практикой и обратной связью</li>
+    </ul>
+  </div>
+  <p class="quote">Главное правило: не выбирай навсегда. Выбери на 30 дней, попробуй руками и реши по факту.</p>
+  <div class="num">5</div>
+</section>
+
+<!-- 6. 30 DAYS -->
+<section class="page">
+  <div class="kicker">5 · План на 30 дней</div>
+  <h2>Первые 30 дней — бесплатно</h2>
+  <p class="mini">Неделя 1–2: основа. Неделя 3: мини-проект. Неделя 4: решение, идёшь дальше или пробуешь другое.</p>
+  <div class="card mini"><b>Data / BI</b><br>SQL — sqlbolt.com · Python и Pandas — kaggle.com/learn · дашборд в Looker Studio.<br><i>Проект:</i> возьми открытый датасет и ответь на 3 вопроса одним дашбордом.</div>
+  <div class="card mini"><b>Кибербезопасность</b><br>Бесплатные курсы Cisco Networking Academy (netacad.com) · вводные комнаты на tryhackme.com.<br><i>Проект:</i> опиши 3 типовые атаки и как их заметить.</div>
+  <div class="card mini"><b>Сети и облака</b><br>Cisco Packet Tracer и вводные курсы на netacad.com · основы Linux.<br><i>Проект:</i> собери в Packet Tracer сеть небольшого офиса.</div>
+  <div class="card mini"><b>DevOps</b><br>Linux и командная строка · Git · основы Docker по официальной документации.<br><i>Проект:</i> запусти простой сайт в контейнере.</div>
+  <div class="card mini"><b>ИИ для работы</b><br>elementsofai.com — понятный курс без программирования.<br><i>Проект:</i> автоматизируй одну свою рутинную задачу и посчитай, сколько часов сэкономил.</div>
+  <div class="src">Платформы иногда меняют условия и бесплатные тарифы. <span class="todo">[ПРОВЕРИТЬ все ссылки перед публикацией]</span></div>
+  <div class="num">6</div>
+</section>
+
+<!-- 7. STUCK -->
+<section class="page">
+  <div class="kicker">6 · Честно</div>
+  <h2>Где самоучки застревают</h2>
+  <div class="card"><b>1. Нет плана.</b> Сегодня Python, завтра кибербез, послезавтра дизайн. Через месяц ничего не доведено до конца.</div>
+  <div class="card"><b>2. Нет практики.</b> Видео посмотрел, а руками не делал. На собеседовании это видно за 5 минут.</div>
+  <div class="card"><b>3. Нет обратной связи.</b> Ошибку никто не показал, и ты повторяешь её неделями.</div>
+  <div class="card"><b>4. Провал на 3–4 неделе.</b> Становится сложно, мотивация падает, и обучение бросают.</div>
+  <div class="card"><b>5. Нет портфолио и резюме.</b> Знания есть, но показать работодателю нечего.</div>
+  <div class="card"><b>6. Английский.</b> Документация и лучшие материалы на английском.</div>
+  <p class="quote">Если узнал себя в 2–3 пунктах, это нормально. Просто учти это, когда выбираешь формат обучения.</p>
+  <div class="num">7</div>
+</section>
+
+<!-- 8. OPTIONS -->
+<section class="page">
+  <div class="kicker">7 · Формат</div>
+  <h2>Сам, онлайн-платформа или школа?</h2>
+  <table>
+    <tr><th></th><th>Сам</th><th>Онлайн-платформа</th><th>Школа с наставником</th></tr>
+    <tr><td><b>Деньги</b></td><td>Бесплатно</td><td>Недорого</td><td>Дороже, часто есть рассрочка</td></tr>
+    <tr><td><b>План</b></td><td>Собираешь сам</td><td>Есть курс, но выбираешь сам</td><td>Есть программа от начала до конца</td></tr>
+    <tr><td><b>Обратная связь</b></td><td>Нет</td><td>Мало, обычно автопроверка</td><td>Преподаватель и наставник</td></tr>
+    <tr><td><b>Практика</b></td><td>Сколько сам сделаешь</td><td>Задания в браузере</td><td>Лабораторные, проекты, иногда реальное оборудование</td></tr>
+    <tr><td><b>Дисциплина</b></td><td>Только твоя</td><td>Только твоя</td><td>Группа, дедлайны</td></tr>
+    <tr><td><b>Кому подходит</b></td><td>Есть время и самодисциплина, хочешь попробовать</td><td>Нужна структура, бюджет ограничен</td><td>Хочешь сменить профессию быстрее и с поддержкой</td></tr>
+  </table>
+  <p class="quote" style="margin-top:4mm">Нет «правильного» варианта. Можно начать самому, а потом пойти в школу за практикой и обратной связью.</p>
+  <div class="num">8</div>
+</section>
+
+<!-- 9. TECH ORDA -->
+<section class="page">
+  <div class="kicker">8 · Если без гранта</div>
+  <h2>Не прошёл на Tech Orda? Ты не один</h2>
+  <div class="two">
+    <div class="card stat"><b>29 600</b><span>заявок</span></div>
+    <div class="card stat"><b>2 723</b><span>гранта</span></div>
+  </div>
+  <div class="card stat"><b>≈1 из 11</b><span>заявок получила грант (моя оценка: 29 600 ÷ 2 723)</span></div>
+  <div class="two">
+    <div class="card stat"><b>18</b><span>заявок на место — Data Analyst</span></div>
+    <div class="card stat"><b>~30</b><span>на место — DevOps для новичков</span></div>
+  </div>
+  <p class="mini">Важно: это заявки, а не люди. Один человек мог подать несколько.</p>
+  <h3>Что можно сделать</h3>
+  <ol class="mini">
+    <li><b>Готовиться к следующему набору.</b> Сроки: <span class="todo">[НУЖЕН ФАКТ: когда следующий набор Tech Orda]</span>. Пройди бесплатный план из раздела 5, к отбору придёшь с базой.</li>
+    <li><b>Начать самому прямо сейчас.</b> 30 дней покажут, твоё это или нет.</li>
+    <li><b>Учиться в школе</b>, если важны скорость, практика и наставник. Спроси про рассрочку.</li>
+  </ol>
+  <div class="src">Источник: витрина Tech Orda на Astana Hub, 2026 (анализ KAI).</div>
+  <div class="num">9</div>
+</section>
+
+<!-- 10. KAI + CTA -->
+<section class="page">
+  <div class="kicker">KAI</div>
+  <h2>Если захочешь учиться с нами</h2>
+  <p>KAI — онлайн-академия IT-профессий в Астане, kai.kz.</p>
+  <div class="card mini">
+    <ul>
+      <li>Направления: <span class="todo">[ДОПИСАТЬ направления и курсы]</span></li>
+      <li>Академия Cisco Networking Academy <span class="todo">[ПОДТВЕРДИТЬ формулировку]</span></li>
+      <li>Скидка 58% на экзамен CCNA для студентов KAI <span class="todo">[ПОДТВЕРДИТЬ условия и срок]</span></li>
+      <li>Учебная платформа my.kai.kz с лабораторными работами <span class="todo">[ПОДТВЕРДИТЬ]</span></li>
+    </ul>
+  </div>
+  <p class="mini">Не знаешь, какое направление выбрать? Напиши нам — разберём твою ситуацию: что нравится, сколько времени есть, с чего начать. Без обязательств.</p>
+  <div class="cta">
+    <h3>Разобрать мою ситуацию</h3>
+    <div class="mini">Нажми кнопку — откроется WhatsApp с готовым сообщением «ПРОФЕССИИ».</div>
+    <a class="btn" href="https://wa.me/NUMBER?text=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%98%D0%98">Написать в WhatsApp →</a>
+    <div class="mini" style="margin-top:2mm; opacity:.85">Ссылка: <span class="todo" style="color:var(--navy)">[ВСТАВИТЬ номер WhatsApp KAI вместо NUMBER]</span></div>
+  </div>
+  <div class="src" style="margin-top:4mm">Гайд не обещает трудоустройство или зарплату: результат зависит от времени, практики и рынка.</div>
+  <div class="num">10</div>
+</section>
+
+</body>
+</html>

@@ -36,6 +36,7 @@ for k,(a,b) in enumerate(segs):
     fc.append(f"[0:a]atrim={a}:{b},asetpts=PTS-STARTPTS,afade=t=in:d=0.02,afade=t=out:st={d-0.03:.3f}:d=0.03[a{k}]")
 fc.append("".join(f"[v{k}][a{k}]" for k in range(n))+f"concat=n={n}:v=1:a=1[vc][ac]")
 fc.append(f"[vc]scale=1080:1920:flags=lanczos,fps=30,tpad=stop_mode=clone:stop_duration={HOLD},format=yuv420p[vo]")
-fc.append(f"[ac]highpass=f=80,afftdn=nf=-25,loudnorm=I=-14:TP=-1.5:LRA=11,apad=pad_dur={HOLD},aresample=48000[ao]")
+# no denoise/loudnorm: they degraded the voice. Gentle gain + limiter, keep source sample rate.
+fc.append(f"[ac]highpass=f=70,volume=8dB,alimiter=limit=0.89:attack=5:release=60:level=disabled,apad=pad_dur={HOLD}[ao]")
 cmd=["ffmpeg","-y","-v","error","-i",SRC,"-filter_complex",";".join(fc),"-map","[vo]","-map","[ao]","-c:v","libx264","-crf","16","-preset","medium","-c:a","aac","-b:a","192k","-t",f"{total:.3f}",f"{S}/reel/app/public/base.mp4"]
 subprocess.run(cmd,check=True)

@@ -10,3 +10,5 @@ Used for the first KAI Reels (Tech Orda, 2026-11-04).
 4. Render: `npx remotion render src/index.ts Reel out/reel.mp4` and `npx remotion still src/index.ts Cover out/cover.png`.
 
 Fonts: @fontsource-variable/unbounded + manrope (bundled locally, Cyrillic).
+
+Audio: after rendering, remux the clean audio once (`-c:v copy`, AAC 256k) so the voice is encoded only one time.

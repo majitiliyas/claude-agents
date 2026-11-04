@@ -1,6 +1,40 @@
 # Founder profile
 
-> Maintained by the tech-mentor agent. Last updated: 2026-11-04 (session 2, direction change).
+> Maintained by the tech-mentor agent. Last updated: 2026-11-04 (session 3, CV + CliftonStrengths + honest message).
+
+## Name: Iliyas
+
+## CV facts (from their CV, 2026-11-04; contact details deliberately NOT stored)
+- Title on CV: Business Data Analyst Intern | Data Analysis, Statistics, Business Strategy. Astana.
+- Education: BBA in IT, MNU, GPA 3.51/4.0, full state grant, expected 06/2029. Last cohort: specialisation is being closed, so they don't expect much from the programme. School: NIS Petropavl (Physics, Informatics, Maths). HKBU Summer School in Computational & Applied Maths (Hong Kong, 2024).
+- Experience:
+  - Business Data Analyst Intern, kai.kz (IT Academy), 10/2026–present, hybrid. CV has NO bullets yet; add quantified ones as results come.
+  - Tennis coach, part-time, self-employed, 06/2026–present, 130+ clients.
+  - CMO, 3080.school (SAT/IELTS prep), 06–09/2025: content plan + Reels, account from 190 followers to 1.2M+ views/impressions in two weeks.
+  - Chair umpire, Kazakhstan Tennis Federation, 2021–2025, ~30 tournaments.
+  - Social Media Manager, NIS Student Council, 2023–2025.
+- Projects: Used Car Sales Analysis Dashboard (Excel + Looker Studio; 10,000 rows, $143.5M revenue, 4 pages, BMW/Ford revenue and sales-vs-MMR findings). NIS IT hackathons 2022–23: 3rd place citywide, CV says "built a working prototype with a team of 4 in 24 h" (NOTE: earlier told mentor a teammate did everything; coached to be able to explain own role honestly). KPMG Strategy & Operations Case Competition 03/2026, team of 4, 3 days: built market analysis, financial model, recommendations.
+- Skills listed: Python, SQL, Excel, Looker Studio, statistics, JS/Node, HTML/CSS. Kazakh + Russian native, English upper-intermediate.
+- Certs: Coursera Data Science Orientation, Kaggle Python, Astana Hub Startup School, American Corner Business Camp, Kangaroo Maths 3rd degree.
+
+## CliftonStrengths (2026-11-04)
+- Top 10: 1 Relator, 2 Learner, 3 Futuristic, 4 Individualization, 5 Analytical, 6 Focus, 7 Significance, 8 Strategic, 9 Arranger, 10 Restorative.
+- Low: Woo 17, Communication 24, Command 28, Activator 29, Maximiser 30, Consistency 31, Developer 33, Includer 34.
+- Mentor read: Strategic Thinking dominant → confirms Product & Data. Relator + Individualization = user-research/PM superpower (and why coaching works). Significance = wants visible impact (fuel). LOW ACTIVATOR = key coaching fact: envisions and plans a lot, struggles to start → night-time paralysis. Antidote: small, fixed, scheduled actions + decisions with deadlines, not more thinking. Low Woo/Communication: presenting is trainable; channel + pitches = practice. Restorative + Arranger: fixing broken things, organising resources.
+
+## Wish list (their words, 2026-11-04) grouped by mentor
+- Security for family (CORE why): very high income to support parents and nephews (nephews have no father; their mother earns little). "By 25, guaranteed stable great life, ideally US/Europe"; "live freely without worrying about the future".
+- Impact/significance: founder in Silicon Valley; Apple, influence product promotion; FAANG/MAANG; win a hackathon/case competition.
+- Mastery: very deep skill in one thing; "more than one real skill"; start reading books in their field.
+- Place/freedom: MIT/Harvard/Ivy; US or Europe.
+
+## Fears and state (2026-11-04)
+- Age 20, uncertainty scares them; lay awake asking why they study without clarity; doesn't want to study for grades without meaning.
+- "Excellent-student syndrome" from NIS; fears GPA drop if kai.kz internship becomes a job; hears "study first" vs "practice first" and can't tell.
+- FOMO about Nazarbayev University (wanted to get in, didn't).
+- Feels they "know nothing except vibe-coding", which the CV contradicts. Gap = Futuristic vision vs present, not real level.
+- "Don't know what I like/dislike"; PM vs PMM: "don't know until I try". Agrees "I don't enjoy coding" isn't reliable yet.
+- Very busy with classes. Mentioned the mentor suggested talking to someone trusted / university psychologist if the anxiety keeps coming back strongly.
 
 ## DIRECTION CHANGE — 2026-11-04
 Their words (RU): "я посидел и подумал что хотел бы развиваться в data analyst и product management (product engineer maybe). вообще моя мечта наверное работать в маркетинг или продуктовом отделе Apple и продвигать продукт. я все таки не прям кайфую от кодинга нежели от предложения идей и стратегии"
@@ -44,6 +78,7 @@ Their words (RU): "я посидел и подумал что хотел бы р
 - Language: switched to Russian in session 1 follow-up. Respond in Russian unless they switch back.
 
 ## Upcoming competitions
+- Status 2026-11-04: NOT registered yet, NO coder on the team. Event Telegram: t.me/business_cup_2026. Eligibility: students, beginner developers, IT specialists; solo/team matching not stated on bilim.expert.
 - NEXT: Business Cup Hackathon 2.0 (AIESEC in Astana + Zimran), Nov 14–15, 2026, in person, 24 h, at NU; real IT case from Zimran; registration deadline Nov 8, 2026; 5,000,000 KZT prize pool. Team size not stated. Role: pitch/product lead + one component owned end to end. Details in roadmap.md.
 - Past: Zimran Business Cup x AIESEC (https://business-cup.zimran.io/). Product sprint: niche → GTM/unit economics → MVP demo → pitch; teams of up to 3; in person at NU, Astana; 2nd–4th year students eligible. The page shows the spring 2026 edition (Mar 16–Apr 12, 2026), already over; next date unknown. Planned role: owns GTM + unit economics end to end + one slice of the MVP demo. Details in roadmap.md.
 - Spending (2026-10-30): stipend goes to university canteen food, medicine, sometimes taxi, sometimes going out. Says they go out less than their classmates.

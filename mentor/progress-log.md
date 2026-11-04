@@ -2,6 +2,13 @@
 
 <!-- newest entries on top: ## YYYY-MM-DD — topic / covered / next task -->
 
+## 2026-11-04 — Session 3: CV, CliftonStrengths, the big honest message
+- Founder (Iliyas) sent CV, CliftonStrengths top 10, and a long message: not registered, no coder; scared by uncertainty, lay awake; 11-item wish list; family support (parents, nephews) as core motivation; NU FOMO; study vs work dilemma; NIS excellent-student syndrome; "I know nothing except vibe-coding".
+- Covered (in Russian): reality check from the CV (kai.kz analyst intern, Looker Studio dashboard, 1.2M+ views as CMO, KPMG financial model, 130+ tennis clients); gentle note to own their role honestly (CV "built a prototype" vs earlier "teammate did everything") and make it fully theirs at this hackathon; strengths read (Strategic Thinking → Product & Data; Relator+Individualization = user research; Significance = fuel; LOW ACTIVATOR = key, antidote is scheduled small actions; low Woo trainable); wish list → 4 groups → one staged path (analyst → good job → international master's/Bolashak or global company → PM/PMM big tech → founder), no guarantees by 25; study vs work rule (GPA floor ~3.3–3.5, ≤15–20 h/week paid work, scoreboard = skills+proof+people); 6-month bet to 2027-05-04; energy journal; NU FOMO reframe (hackathon at NU, NU events page, Decentrathon was NU club-run); hackathon practicals; CV bullets for kai.kz; one line on talking to someone/university psychologist if anxiety persists.
+- Next tasks (Nov 4–10, ≈3–4 h): register by Nov 6 (deadline Nov 8); 3 coder-search messages by Nov 7; unit-economics template Nov 8–9; daily energy journal.
+- Open question asked: what exactly do they do at kai.kz (tasks, hours/week)? → for CV bullets and work-hours cap.
+- Still unknown: whether last week's tasks (SQLBolt, spending log) were done; didn't push this session.
+
 ## 2026-11-04 — Session 2: direction change to Product + Data
 - Founder: wants data analyst + product management (maybe product engineer); dream = Apple marketing/product, promoting products; enjoys ideas/strategy more than coding.
 - Mentor response: accepted as a real signal. Caveats: little coding so far = partly unfamiliarity; product + data still needs hands-on skill (SQL, sheets, stats, BI, pandas). Direction = "business-side builder".

@@ -5,6 +5,25 @@ Domain for projects: fintech / personal finance (the "Стипендия" projec
 Assumed budget: 5–8 h/week (range 4–10).
 Checkpoint ~Dec 13–20: portfolio review (SQL level, the Стипендия dashboard, interview notes), then PM vs PMM lean.
 
+## 6-MONTH BET (set 2026-11-04, session 3)
+- Commit to Product & Data from Nov 4, 2026 to **May 4, 2027** as a deliberate experiment. No daily re-deciding of direction. Review date: **2027-05-04** (also the ~Dec 13–20 checkpoint as a mid-point).
+- Review questions: energy journal (+/−) patterns; what was shipped; kai.kz results; PM vs PMM lean; keep / adjust.
+- Energy journal: after each meaningful task, one line "task, +/−, why". Started Nov 4, first read-out ~Nov 18.
+
+## Study vs work rule (2026-11-04)
+- GPA FLOOR ~3.3–3.5 (rule of thumb; current 3.51). Not maximisation. Below the floor → shift hours back to study.
+- Above the floor, extra hours go to practice: kai.kz, projects, channel.
+- Paid work during semester ≤15–20 h/week.
+- Courses that feed the path (stats, databases, data analysis, UX/marketing) = real skill-building, done properly. Rest = good enough.
+- Scoreboard is now skills + proof (portfolio) + people (network); grades are a threshold.
+
+## Long-term staged path (2026-11-04; no guarantees on timelines, control the trajectory)
+1. Now → graduation (06/2029): product/data analyst skills, internships (kai.kz → bigger), portfolio (Стипендия, dashboards, hackathon models), channel as PMM portfolio, English to IELTS-ready.
+2. Graduation: strong analyst/product job (big KZ companies, e.g. Kaspi, or remote international).
+3. +1–3 years: international master's/MBA (realistic route to US/Europe and top universities: graduate admission is far more achievable than transferring now), or relocation via a global company. Funding option: Bolashak (verified 2026-11-04: 2026 cycle had 635 grants incl. 400 master's per a KGMU notice; official rules page requires an unconditional offer from a recommended foreign university + B1 KAZTEST/Qazaq Resmi Test for general master's applicants; category tracks require GPA ≥3.00/4.0; there is a work-back obligation historically 3–5 years, current terms to re-check on bolashak.gov.kz).
+4. Then PM/PMM at big tech (Apple PMM dream).
+5. Then founder.
+
 ## Role map (as taught 2026-11-04)
 - Data Analyst: answers business questions with data (SQL, spreadsheets, stats, dashboards).
 - Product Analyst: same, focused on product (funnels, retention, A/B tests). Closest stepping stone to PM.
@@ -31,7 +50,8 @@ Checkpoint ~Dec 13–20: portfolio review (SQL level, the Стипендия das
 
 | Dates | Work (~4–10 h/week) | Ship |
 |---|---|---|
-| Nov 4–8 | REGISTER for Business Cup 2.0 by Nov 8 (if not done). SQLBolt lessons 1–6 (~2 h). Unit-economics template in Google Sheets: CAC, LTV, margin, payback on a made-up example (~2 h). Log own spending daily in a Google Sheet (date, amount, category). 1-page Стипендия product spec: problem, user, MVP, 2 metrics (~1 h). CS50P DROPPED. | Registration; spreadsheet template; spec |
+| Nov 4–10 (LIGHTENED in session 3, ≈3–4 h total, busy with classes) | 1) Register by Nov 6 (hard deadline Nov 8). 2) By Nov 7: 3 messages to find a coder (kai.kz colleague, IT classmates, event chat t.me/business_cup_2026). 3) Nov 8–9: unit-economics template in Google Sheets (~2 h). 4) Daily energy journal. SQLBolt 1–6 and Стипендия spec MOVED to after the hackathon. | Registration; team; template |
+| (old plan, superseded) Nov 4–8 | REGISTER for Business Cup 2.0 by Nov 8 (if not done). SQLBolt lessons 1–6 (~2 h). Unit-economics template in Google Sheets: CAC, LTV, margin, payback on a made-up example (~2 h). Log own spending daily in a Google Sheet (date, amount, category). 1-page Стипендия product spec: problem, user, MVP, 2 metrics (~1 h). CS50P DROPPED. | Registration; spreadsheet template; spec |
 | Nov 9–13 | Hackathon prep: research Zimran's products; TAM/SAM/SOM practice on one Zimran product; 3-min pitch template; first Looker Studio chart from own expense sheet; agree roles with the team (they = product/business/data lead; teammate codes). | Pitch template + unit-econ model + 1 chart |
 | Nov 14–15 | HACKATHON. Role: product lead + business/data. Own: unit-economics model + one data slide/dashboard, built by them. | Pitch; model and slide under their name |
 | Nov 16–22 | Retro. 5 Mom Test interviews with classmates about stipend spending. Bot/tracker to those 5 (AI-assisted or teammate-built, or a Google Form → Sheet MVP). SQLBolt to lesson 12. | Interview notes; 5 users onboarded |

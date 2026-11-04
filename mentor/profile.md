@@ -10,6 +10,15 @@
 - Experience:
   - Business Data Analyst Intern, kai.kz (IT Academy), 10/2026–present, hybrid. CV bullets drafted 2026-11-04 (session 4, see progress log); replace "estimated" with measured results when known. Hours/week at kai.kz: STILL UNKNOWN (asked twice).
 
+## kai.kz OUTCOMES (reported 2026-11-04, session 5)
+- Tech Orda proposals → added to the team's mandatory task list.
+- Uzbekistan: paid targeting launched on their recommendation; paused after HQ plans/traction changed (not a failure of the analysis).
+- AI courses for non-IT: company launched the 3 they ranked highest — AI for Work, AI for Business, Build & Launch.
+- Wrote "KAI: предложения для развития" (5 prioritised growth proposals, 19.10.2026) and expansion options.
+- Designed UI/UX for a sales-head (РОП) page: sales per client and per sales rep.
+- On-camera presenter in Reels/TikTok ad creatives (tech, job market) → PMM/content signal, links to own channel.
+- Missing for CV: numbers (enrolments, leads, CPL, revenue) — ask manager.
+
 ## kai.kz internship work (reported 2026-11-04, Trello board "kai.kz team")
 - Their words: finds data and draws conclusions for heads of product and marketers.
 - Last 2 weeks, 4 deliverables:

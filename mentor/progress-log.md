@@ -2,6 +2,12 @@
 
 <!-- newest entries on top: ## YYYY-MM-DD — topic / covered / next task -->
 
+## 2026-11-04 — Session 5: kai.kz OUTCOMES (manager handled inline)
+- Founder shared 5 PDFs (Tech Orda / "Где KAI теряет клиентов" deck 12.10; KAI onboarding deck "Добро пожаловать в команду kai.kz"; CCNA Uzbekistan report; AI courses report 22.10; "KAI: предложения для развития" 19.10 — 5 prioritised proposals incl. lead-source tagging in AmoCRM, employment-rate survey, creatives by competitor patterns, Tech Orda accreditation for spring 2027).
+- Reported outcomes: Tech Orda proposals added to the team's mandatory task list; paid targeting to Uzbekistan launched on their recommendation (then paused: HQ plans/traction changed); company launched the 3 non-IT AI courses they ranked highest (AI for Work, AI for Business, Build & Launch); proposed company expansion paths; designed UI/UX for a sales-head (РОП) page tracking sales per client and per sales rep; appeared on camera as influencer in Reels/TikTok ad creatives about tech and the job market.
+- Covered: these are measured outcomes, not just recommendations → strongest CV lines; work spans product analyst + strategy + PMM/content + product design = junior PM/PMM profile; updated CV bullets with outcomes (only founder-stated facts). Next: get numbers (AI course enrolments/leads, Uzbekistan pilot CPL/leads before pause), ask manager what can be shown publicly.
+- Open: hours/week at kai.kz (asked 3×); coder for hackathon; energy-journal signal.
+
 ## 2026-11-04 — Session 4: kai.kz internship work review
 - Founder answered the kai.kz question (not hours): 4 reports in 2 weeks (Tech Orda analysis + offer proposal; AI courses for non-IT; top-5 professions competitive analysis; CCNA market entry with deck/report/model). Details in profile.md.
 - Covered (in Russian): named it as real product/strategy analyst work (sizing, gap, monetised rec, model structure, sensitivity, test-first, exec packaging); Tech Orda = growth/PMM move, CCNA = PM/strategy; evidence against "I know nothing". Honest note: CCNA buffer is thin (15% vs 13.4%). Coaching question on AI assistance; test = defend every number without files. Gaps to "career-making": measured outcomes, SQL to pull own data, live 3-min readouts. 3 English CV bullets drafted (estimated/identified/proposed only). Portfolio: anonymised public-data Tech Orda case after asking manager re NDA. PM vs PMM: which task gave most energy → energy journal. Hackathon: this is the Business Cup skill set; "own one part" ready.

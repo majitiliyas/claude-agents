@@ -68,6 +68,9 @@ Rules:
 1. Стипендия (product project): spec, user interviews, metrics, usage analysis, dashboard, v2 decisions.
 2. The content channel as a PMM portfolio: audience growth, retention, CTR, positioning, posting experiments.
 3. Hackathon artefacts: unit-economics models + pitch decks.
+4. kai.kz case study (added 2026-11-04): anonymised Tech Orda analysis rebuilt on PUBLIC Astana Hub data only (market sizing → gap → offer → budget vs revenue → how to measure). Precondition: ask kai.kz manager what may be shared (NDA/permission). Not before the hackathon; target ~Nov 23–Dec 13, fits the Dec checkpoint.
+5. kai.kz outcomes: follow up on Tech Orda offer result and the CCNA pilot/AmoCRM export; a recommendation + measured result = strongest CV line. Later: pull data themselves with SQL instead of waiting for exports (SQLBolt after hackathon).
+6. Communication practice: offer 3-minute live readouts of each kai.kz report (trains low Communication/Woo).
 
 ## Trial A spec: "Стипендия" (now a PRODUCT project)
 From the founder's pain: making a 50,000 KZT/month stipend last.

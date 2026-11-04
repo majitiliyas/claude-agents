@@ -8,7 +8,18 @@
 - Title on CV: Business Data Analyst Intern | Data Analysis, Statistics, Business Strategy. Astana.
 - Education: BBA in IT, MNU, GPA 3.51/4.0, full state grant, expected 06/2029. Last cohort: specialisation is being closed, so they don't expect much from the programme. School: NIS Petropavl (Physics, Informatics, Maths). HKBU Summer School in Computational & Applied Maths (Hong Kong, 2024).
 - Experience:
-  - Business Data Analyst Intern, kai.kz (IT Academy), 10/2026–present, hybrid. CV has NO bullets yet; add quantified ones as results come.
+  - Business Data Analyst Intern, kai.kz (IT Academy), 10/2026–present, hybrid. CV bullets drafted 2026-11-04 (session 4, see progress log); replace "estimated" with measured results when known. Hours/week at kai.kz: STILL UNKNOWN (asked twice).
+
+## kai.kz internship work (reported 2026-11-04, Trello board "kai.kz team")
+- Their words: finds data and draws conclusions for heads of product and marketers.
+- Last 2 weeks, 4 deliverables:
+  1. Tech Orda 2026 analysis: Astana Hub data (146 courses, 70 schools, 29,600 applications, 2,723 grants); ~14.5k applications (~5–7k people) in KAI's directions without a grant; Data Analyst 18/seat, DevOps beginners 30/seat; no school offers network engineering; competitors (Terricon, Alpha Education, BigData Team) target rejected applicants, KAI doesn't. Proposed "Не прошёл в Tech Orda" offer (−30% or via IT Foundation, AmoCRM tag), est. ~4.4M ₸ revenue on 300–400k ₸ budget.
+  2. "AI courses for non-IT people: what KAI should launch" (PDF + XLSX model).
+  3. Competitive analysis of top 5 professions.
+  4. CCNA market entry: 10 Russian-speaking countries → Uzbekistan (Tashkent). 13-slide deck → 14-page PDF (67 dated sources) → Excel model (inputs blue, assumptions yellow, "KAI data" sheet awaiting AmoCRM). Key assumption 15% study in Russian; breaks at 13.4% (thin 1.6 pp buffer). Proposed 6-week demand test; asked for pilot decision + AmoCRM export of +998 leads/payments.
+- Skills observed: market sizing, competitive gap spotting, monetised recommendations (budget vs revenue), model structure (inputs vs assumptions), sensitivity analysis, test-before-launch thinking, executive packaging (deck → report → model). Flavours: Tech Orda = growth/PMM; CCNA = strategy/PM; AI courses = product discovery.
+- Open (asked session 4): how much was AI-assisted; can they defend every number without files; was the Tech Orda offer run and with what result; did they get the AmoCRM export; which task gave the most energy.
+- Gaps observed: no measured outcomes yet; depends on others for data exports (no SQL in practice yet); deliverables sent as files, no live readouts.
   - Tennis coach, part-time, self-employed, 06/2026–present, 130+ clients.
   - CMO, 3080.school (SAT/IELTS prep), 06–09/2025: content plan + Reels, account from 190 followers to 1.2M+ views/impressions in two weeks.
   - Chair umpire, Kazakhstan Tennis Federation, 2021–2025, ~30 tournaments.
@@ -32,7 +43,7 @@
 - Age 20, uncertainty scares them; lay awake asking why they study without clarity; doesn't want to study for grades without meaning.
 - "Excellent-student syndrome" from NIS; fears GPA drop if kai.kz internship becomes a job; hears "study first" vs "practice first" and can't tell.
 - FOMO about Nazarbayev University (wanted to get in, didn't).
-- Feels they "know nothing except vibe-coding", which the CV contradicts. Gap = Futuristic vision vs present, not real level.
+- Feels they "know nothing except vibe-coding", which the CV contradicts (and the kai.kz deliverables, 2026-11-04, contradict even more strongly). Gap = Futuristic vision vs present, not real level.
 - "Don't know what I like/dislike"; PM vs PMM: "don't know until I try". Agrees "I don't enjoy coding" isn't reliable yet.
 - Very busy with classes. Mentioned the mentor suggested talking to someone trusted / university psychologist if the anxiety keeps coming back strongly.
 

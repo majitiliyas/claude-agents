@@ -8,7 +8,7 @@
 - Title on CV: Business Data Analyst Intern | Data Analysis, Statistics, Business Strategy. Astana.
 - Education: BBA in IT, MNU, GPA 3.51/4.0, full state grant, expected 06/2029. Last cohort: specialisation is being closed, so they don't expect much from the programme. School: NIS Petropavl (Physics, Informatics, Maths). HKBU Summer School in Computational & Applied Maths (Hong Kong, 2024).
 - Experience:
-  - Business Data Analyst Intern, kai.kz (IT Academy), 10/2026–present, hybrid. CV bullets drafted 2026-11-04 (session 4, see progress log); replace "estimated" with measured results when known. Hours/week at kai.kz: STILL UNKNOWN (asked twice).
+  - Business Data Analyst Intern, kai.kz (IT Academy), 10/2026–present, hybrid. CV bullets drafted 2026-11-04 (session 4, see progress log); replace "estimated" with measured results when known. Hours/week at kai.kz: 5–10 h, UNPAID (reported 2026-11-04). Final CV block for kai.kz written by manager 2026-11-04 (see progress log).
 
 ## kai.kz OUTCOMES (reported 2026-11-04, session 5)
 - Tech Orda proposals → added to the team's mandatory task list.

@@ -88,7 +88,7 @@ const Camera: React.FC = () => {
   const scale = base + push + acc + cta;
   return (
     <AbsoluteFill style={{transform: `scale(${scale})`, transformOrigin: '53% 43%'}}>
-      <OffthreadVideo src={staticFile('base.mp4')} style={{width: '100%', height: '100%', filter: 'contrast(1.08) saturate(1.06) brightness(1.02)'}} />
+      <OffthreadVideo src={staticFile('base.mp4')} style={{width: '100%', height: '100%'}} />
     </AbsoluteFill>
   );
 };
@@ -373,7 +373,7 @@ export const Reel: React.FC = () => (
 
 export const Cover: React.FC = () => (
   <AbsoluteFill style={{background: 'black'}}>
-    <Img src={staticFile('cover_bg.jpg')} style={{width: '100%', height: '100%', objectFit: 'cover', transform: 'scale(1.08)', transformOrigin: '53% 43%', filter: 'contrast(1.08) saturate(1.06)'}} />
+    <Img src={staticFile('cover_bg.jpg')} style={{width: '100%', height: '100%', objectFit: 'cover', transform: 'scale(1.08)', transformOrigin: '53% 43%', }} />
     <Vignette />
     <div style={{position: 'absolute', top: 290, left: 80, right: 150}}>
       <div style={{fontFamily: BODY, fontWeight: 800, fontSize: 36, color: ACCENT, letterSpacing: 4}}>TECH ORDA · Я ПОСЧИТАЛ</div>

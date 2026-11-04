@@ -1,6 +1,12 @@
 # Founder profile
 
-> Maintained by the tech-mentor agent. Last updated: 2026-10-30 (session 1, onboarding).
+> Maintained by the tech-mentor agent. Last updated: 2026-11-04 (session 2, direction change).
+
+## DIRECTION CHANGE — 2026-11-04
+Their words (RU): "я посидел и подумал что хотел бы развиваться в data analyst и product management (product engineer maybe). вообще моя мечта наверное работать в маркетинг или продуктовом отделе Apple и продвигать продукт. я все таки не прям кайфую от кодинга нежели от предложения идей и стратегии"
+- New direction: **Product + Data**: Data/Product Analyst as the entry skill, then PM or PMM. Dream: Apple Product Marketing / product team. Founder ambition kept (PM/PMM is a common route to founding).
+- Mentor read: real signal (fits BBA in IT, pull toward ideas/pitch, hates no-impact). Caveat: "don't enjoy coding" comes from very little coding, so partly unfamiliarity. Their hands-on core is now SQL, spreadsheets, stats, BI dashboards, pandas basics, not software engineering.
+- The earlier "Goal: strong on the TECH side" below is superseded by "business-side builder who can read data and talk to engineers".
 
 ## Facts
 - Age: 20 (born 17.09.2006). Based in Kazakhstan.
@@ -42,12 +48,10 @@
 - Past: Zimran Business Cup x AIESEC (https://business-cup.zimran.io/). Product sprint: niche → GTM/unit economics → MVP demo → pitch; teams of up to 3; in person at NU, Astana; 2nd–4th year students eligible. The page shows the spring 2026 edition (Mar 16–Apr 12, 2026), already over; next date unknown. Planned role: owns GTM + unit economics end to end + one slice of the MVP demo. Details in roadmap.md.
 - Spending (2026-10-30): stipend goes to university canteen food, medicine, sometimes taxi, sometimes going out. Says they go out less than their classmates.
 
-## Candidate fields under consideration (as of 2026-10-30)
-1. AI/LLM applications & agents (AI product engineer) — current lean
-2. Applied ML / computer vision
-3. Fintech + AI (domain layer, likely combined with 1 or 2)
-Decision checkpoint: ~2026-12-13 after trial projects.
+## Candidate fields (HISTORY; superseded 2026-11-04)
+- 2026-10-30 candidates: A. AI/LLM apps, B. Applied ML/CV, C. Fintech + AI. Trial B (CV rebuild) dropped.
+- 2026-11-04 chosen by the founder: Product + Data (Analyst → PM/PMM). Fintech stays as the domain via the "Стипендия" project. Checkpoint ~Dec 13–20 now = review of the product+data portfolio, not a field choice.
 
 ## Hackathon role
-- Now: product/pitch lead + one real technical slice.
-- Target: builder who owns a component end to end, growing toward technical founder.
+- Now (from 2026-11-04): product lead + business/data. Owns problem framing, market sizing, unit economics, metrics, pitch. Hands-on part = the unit-economics spreadsheet + one data slide/dashboard, built by them.
+- Target: PM/PMM-type founder who backs every claim with numbers.

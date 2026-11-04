@@ -2,6 +2,14 @@
 
 <!-- newest entries on top: ## YYYY-MM-DD — topic / covered / next task -->
 
+## 2026-11-04 — Session 2: direction change to Product + Data
+- Founder: wants data analyst + product management (maybe product engineer); dream = Apple marketing/product, promoting products; enjoys ideas/strategy more than coding.
+- Mentor response: accepted as a real signal. Caveats: little coding so far = partly unfamiliarity; product + data still needs hands-on skill (SQL, sheets, stats, BI, pandas). Direction = "business-side builder".
+- Covered: roles (DA, Product Analyst, PM, PMM, Product Engineer); route Analyst → PM/PMM; Google APM/APMM as examples; Apple facts verified (Product Marketing team exists; internships open to nontechnical fields; KZ availability unverified); new skill stack; CS50P replaced by Kaggle Python+Pandas; Стипендия reframed as a product project; channel = PMM portfolio; hackathon role = product lead + business/data, own unit-econ model + 1 data slide.
+- Next tasks (Nov 4–10): register by Nov 8; SQLBolt 1–6; unit-economics template in Sheets; daily expense log in a Sheet; 1-page Стипендия spec.
+- Open questions: registered yet + is there a teammate who codes? PM (what to build) or PMM (how to tell the world)?
+- Did the founder do CS50P L0/PS0 or the bot mini-MVP (Nov 2–8 plan)? Not reported; ask next session.
+
 ## 2026-10-30 — Session 1 (cont. 3): REPLAN for Business Cup Hackathon 2.0
 - Verified bilim.expert post (~3 days old): Business Cup Hackathon 2.0, AIESEC in Astana + Zimran, Nov 14–15, 2026, in person at NU, 24 h, real Zimran IT case, registration deadline Nov 8, 5M KZT prize pool. Team size not stated. This is UPCOMING (15 days out).
 - Replan: register now → bot mini-MVP + CS50P L0/PS0 (Nov 2–8) → hackathon prep, CS50P paused (Nov 9–13) → hackathon → resume CS50P Nov 16. Trial A mini-MVP moved earlier as the hackathon rehearsal. Field checkpoint may slip to ~Dec 20.
